@@ -19,6 +19,6 @@ cd api && json-server --watch db.json
 ```
 then new terminal open
 ```
-cd client npm start
+cd client && npm start
 ```
 
