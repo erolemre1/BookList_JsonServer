@@ -1,0 +1,8 @@
+export const FETCH_STATE = "FETCH_STATE";
+export const BASKET_ADDED = "BASKET_ADDED";
+export const BASKET_DELETED = "BASKET_DELETED";
+export const BOOK_INCREASE = "BOOK_INCREASE";
+export const BOOK_DECREASE = "BOOK_DECREASE";
+
+
+
